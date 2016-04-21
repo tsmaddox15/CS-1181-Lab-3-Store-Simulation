@@ -1,1 +1,2 @@
 # CS-1181-Lab-3-Store-Simulation
+In this project, I construct a program to simulate a store. The goal is to use the simulation to analyze the customer’s shopping experience given a number of express (12 items or less) checkout lanes, and a number of checkout lanes serving any size order. The owner would like to determine if there are enough or too many express lanes, and if there are enough or too many lanes serving any size order.  
